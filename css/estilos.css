@@ -42,3 +42,12 @@ body
 {
     padding: 1em;
 }
+
+#footer{
+    background: rgb(84, 65, 170);
+    color: aliceblue;
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+    height: 30px;
+}
