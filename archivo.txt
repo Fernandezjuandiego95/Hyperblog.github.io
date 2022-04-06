@@ -4,4 +4,8 @@ Juan Diego Fernandez Gonzalez
  21 años de edad
  sexo Masculino 
  Altura 1.79m
+ Master 1
+ master 2
+ exp 1
+ exp 2
  programador web
